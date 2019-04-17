@@ -1,0 +1,19 @@
+
+.principal {
+	text-align:center;
+	
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+#wrap { min-height: 100%; height: auto; margin: 0 auto -60px; padding: 10px 0 60px; text-align: center; }
+        #wrap .box { margin: 0 auto; padding: 35px 0 30px; float: none; width: 400px; border-radius: 5px; background-color: #F7F7F7; box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3); }
+
+.input { position: relative; }
+input { border: 1px solid #ccc; padding: 15px; outline: none; font-size: 16px; height: 20px; color: #777; margin: 0; width: 250px; max-width: 100%; display: block; background: #fff; }
+
+#footer { padding-top: 20px; }
+        .container { width: auto; max-width: 680px; padding: 0 15px; }
+        .container .credit { margin: 20px 0; }
